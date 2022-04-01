@@ -1,4 +1,7 @@
 # 💰 Conversor de Moedas!
+
+Projeto desenvolvido durante a #imersãoDEV da Alura!
+
 link Github:  https://andressadacosta.github.io/conversor-de-moedas/
 
 link Codepen: https://codepen.io/andressadacosta/full/JjOgwWL
